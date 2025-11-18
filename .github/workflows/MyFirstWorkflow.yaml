@@ -1,0 +1,5 @@
+jobs:
+  first_job:
+    name: ubuntu-latest
+    steps: 
+     - run: ehco "Hello WOrld"
